@@ -1,0 +1,16 @@
+{
+	"name": "music",
+	"repo": "stephband/music",
+	"description": "A library of functions for processing musical information.",
+	"version": "0.1.0",
+	"keywords": [],
+	"dependencies": {},
+	"development": {},
+	"license": "",
+	"main": "js/music.js",
+	"scripts": [
+		"js/music.js",
+		"js/music-harmony.js",
+		"js/music-notation.js"
+	]
+}
